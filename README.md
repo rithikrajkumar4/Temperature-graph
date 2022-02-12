@@ -1,4 +1,4 @@
-# Temperature-graph-api
+# Temperature-graph
 
 This Web Page fetch the data from the local file in csv(comma-separated values), and put the data in a graph line format using a chart.js libary.<br/>
 This show the the data in 3 lines <br/>
